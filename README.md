@@ -1,4 +1,4 @@
-# Short read aligner based on Burrows–Wheeler transform
+# Read aligner based on Burrows–Wheeler transform
 
 October 2024 (M2 BI)
 
