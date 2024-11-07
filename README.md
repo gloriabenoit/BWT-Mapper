@@ -17,5 +17,5 @@ python src/mapper.py sequence.fasta short_read
 As an example, we have searched ``` ATGCAG ``` in [SARS-CoV-2 full genome](https://www.ncbi.nlm.nih.gov/nuccore/MN908947). We found 13 matches.   
 
 ```bash
-python src/mapper.py data/WH1.fst ATGCAG
+python src/mapper.py data/WH1.fasta ATGCAG
 ```  
